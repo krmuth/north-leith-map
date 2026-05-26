@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <name>North Leith Neighbourhood History</name>
+        <Folder id="2">
+            <Style id="6">
+                <IconStyle id="7">
+                    <color>ff00b3ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.3</scale>
+                    <heading>0</heading>
+                    <Icon id="8">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="9">
+                    <color>ff00b3ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="13">
+                <IconStyle id="14">
+                    <color>8800b3ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.3</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="16">
+                    <color>8800b3ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="20">
+                <IconStyle id="21">
+                    <color>ff00b3ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.3</scale>
+                    <heading>0</heading>
+                    <Icon id="22">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="23">
+                    <color>ff00b3ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="27">
+                <IconStyle id="28">
+                    <color>ff00b3ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.3</scale>
+                    <heading>0</heading>
+                    <Icon id="29">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="30">
+                    <color>ff00b3ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="34">
+                <IconStyle id="35">
+                    <color>ff00b3ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.3</scale>
+                    <heading>0</heading>
+                    <Icon id="36">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="37">
+                    <color>ff00b3ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="41">
+                <IconStyle id="42">
+                    <color>8800b3ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.3</scale>
+                    <heading>0</heading>
+                    <Icon id="43">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="44">
+                    <color>8800b3ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="48">
+                <IconStyle id="49">
+                    <color>ff00b3ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.3</scale>
+                    <heading>0</heading>
+                    <Icon id="50">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="51">
+                    <color>ff00b3ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <name>Gladstone Imprint</name>
+            <Placemark id="5">
+                <name>St Thomas's Church / Guru Nanak Gurdwara</name>
+                <description><![CDATA[<b>St Thomas's Church / Guru Nanak Gurdwara</b><br/><i>Sheriff Brae, Edinburgh EH6 6QX</i><br/>1840 &nbsp;|&nbsp; Religious &nbsp;|&nbsp; Converted<br/><span style="color:#ffb300">&#11035; Gladstone</span> &nbsp;&middot;&nbsp; Colonial link<hr/>Built and endowed by John Gladstone in 1840, designed by architect John Henderson. Gladstone, whose wealth derived in part from Caribbean plantation slavery and the subsequent slave-owner compensation scheme, funded the church as an act of philanthropy in the neighbourhood of his birth. The adjacent manse was destroyed by a Zeppelin bomb in April 1916. The church later converted to the Guru Nanak Dev Ji Gurdwara, now serving Edinburgh's Sikh community — a layered history of colonial religion repurposed by a post-colonial diaspora.<hr/><small><b>Sources</b><ul><li>Historic Environment Scotland / Trove.scot</li><li>UCL Legacies of British Slave-ownership database — lbs.ucl.ac.uk</li><li>Bank of England working paper 1006: The collection of slavery compensation, 1835–43</li></ul></small>]]></description>
+                <TimeSpan id="10">
+                    <begin>1840</begin>
+                </TimeSpan>
+                <styleUrl>#6</styleUrl>
+                <Point id="4">
+                    <coordinates>-3.175478,55.97457,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="12">
+                <name>St Thomas's Manse</name>
+                <description><![CDATA[<b>St Thomas's Manse</b><br/><i>Sheriff Brae, Edinburgh EH6</i><br/>1840–1916 &nbsp;|&nbsp; Residential &nbsp;|&nbsp; Demolished<br/><span style="color:#ffb300">&#11035; Gladstone</span> &nbsp;&middot;&nbsp; Colonial link<hr/>The manse of St Thomas's Church, built as part of John Gladstone's philanthropic complex on Sheriff Brae in 1840. Destroyed by a Zeppelin bomb in April 1916 — one of the earliest civilian bombing casualties in Edinburgh. The site is part of the 1916 Zeppelin raid pattern distinct from the 1941 Luftwaffe attacks that struck much of the rest of the neighbourhood.<hr/><small><b>Sources</b><ul><li>Historic Environment Scotland / Trove.scot</li><li>Leith Local History Society — leithlocalhistorysociety.org.uk</li></ul></small>]]></description>
+                <TimeSpan id="17">
+                    <begin>1840</begin>
+                    <end>1916</end>
+                </TimeSpan>
+                <styleUrl>#13</styleUrl>
+                <Point id="11">
+                    <coordinates>-3.175226,55.974687,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="19">
+                <name>St Thomas's Almshouses</name>
+                <description><![CDATA[<b>St Thomas's Almshouses</b><br/><i>Sheriff Brae, Edinburgh EH6</i><br/>1840 &nbsp;|&nbsp; Welfare &nbsp;|&nbsp; Extant<br/><span style="color:#ffb300">&#11035; Gladstone</span> &nbsp;&middot;&nbsp; Colonial link<hr/>Accommodation for ten women, also described in contemporary records as an asylum, endowed by John Gladstone as part of his philanthropic complex at Sheriff Brae. Built 1840. Current status requires ground-truthing — the site may be incorporated into later residential development.<hr/><small><b>Sources</b><ul><li>Ordnance Survey Name Books, Midlothian 1852 — scotlandsplaces.gov.uk</li><li>Historic Environment Scotland / Trove.scot</li></ul></small>]]></description>
+                <TimeSpan id="24">
+                    <begin>1840</begin>
+                </TimeSpan>
+                <styleUrl>#20</styleUrl>
+                <Point id="18">
+                    <coordinates>-3.17595,55.974693,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="26">
+                <name>St Thomas's Schools (boys and girls)</name>
+                <description><![CDATA[<b>St Thomas's Schools (boys and girls)</b><br/><i>Sheriff Brae, Edinburgh EH6</i><br/>1840 &nbsp;|&nbsp; Educational &nbsp;|&nbsp; Extant<br/><span style="color:#ffb300">&#11035; Gladstone</span> &nbsp;&middot;&nbsp; Colonial link<hr/>Schools for boys and girls endowed by John Gladstone's bequest, part of the philanthropic complex at Sheriff Brae. Average attendance recorded in 1852 as 80 boys and 120 girls. The schools were among the few free educational institutions in the area at this period.<hr/><small><b>Sources</b><ul><li>Ordnance Survey Name Books, Midlothian 1852 — scotlandsplaces.gov.uk</li><li>Historic Environment Scotland / Trove.scot</li></ul></small>]]></description>
+                <TimeSpan id="31">
+                    <begin>1840</begin>
+                </TimeSpan>
+                <styleUrl>#27</styleUrl>
+                <Point id="25">
+                    <coordinates>-3.176068,55.974696,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33">
+                <name>Mill Lane Schools / Gladstones</name>
+                <description><![CDATA[<b>Mill Lane Schools / Gladstones</b><br/><i>Mill Lane / Great Junction Street, Edinburgh EH6</i><br/>1838 &nbsp;|&nbsp; Educational &nbsp;|&nbsp; Extant<br/><span style="color:#ffb300">&#11035; Gladstone</span> &nbsp;&middot;&nbsp; Colonial link<hr/>Built by John Gladstone in 1838, two years before the Sheriff Brae complex, these schools were the first institution in the area to provide free education to girls. Later renamed Gladstones in honour of their founder. Significant as an early example of female education provision in Leith.<hr/><small><b>Sources</b><ul><li>Leith Local History Society — leithlocalhistorysociety.org.uk</li><li>City of Edinburgh Council planning portal</li></ul></small>]]></description>
+                <TimeSpan id="38">
+                    <begin>1838</begin>
+                </TimeSpan>
+                <styleUrl>#34</styleUrl>
+                <Point id="32">
+                    <coordinates>-3.176181,55.974696,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40">
+                <name>Gladstone Birthplace / Plaque</name>
+                <description><![CDATA[<b>Gladstone Birthplace / Plaque</b><br/><i>King Street / Great Junction Street junction, Edinburgh EH6</i><br/>1764 &nbsp;|&nbsp; Memorial &nbsp;|&nbsp; Demolished<br/><span style="color:#ffb300">&#11035; Gladstone</span> &nbsp;&middot;&nbsp; Colonial link<hr/>Birthplace of John Gladstones (later Gladstone), born 1764. Gladstone went on to become a Liverpool merchant whose fortune was substantially built on Caribbean plantation slavery; he received one of the largest compensation payments under the 1833 Slavery Abolition Act. A commemorative plaque was erected in 1909. The original building has been demolished.<hr/><small><b>Sources</b><ul><li>Wikipedia: Sir John Gladstone, 1st Baronet</li><li>UCL Legacies of British Slave-ownership database — lbs.ucl.ac.uk</li><li>Capital Collections (Edinburgh) — capitalcollections.org.uk</li></ul></small>]]></description>
+                <TimeSpan id="45">
+                    <begin>1764</begin>
+                </TimeSpan>
+                <styleUrl>#41</styleUrl>
+                <Point id="39">
+                    <coordinates>-3.176127,55.973366,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="47">
+                <name>Gladstone Rose Garden</name>
+                <description><![CDATA[<b>Gladstone Rose Garden</b><br/><i>Sheriff Brae vicinity, Edinburgh EH6</i><br/>1838 &nbsp;|&nbsp; Memorial &nbsp;|&nbsp; Extant<br/><span style="color:#ffb300">&#11035; Gladstone</span> &nbsp;&middot;&nbsp; Colonial link<hr/>Public rose garden established as part of John Gladstone's philanthropic complex at Sheriff Brae, c.1838. Precise location and current status require ground-truthing.<hr/><small><b>Sources</b><ul><li>Leith Local History Society — leithlocalhistorysociety.org.uk</li></ul></small>]]></description>
+                <TimeSpan id="52">
+                    <begin>1838</begin>
+                </TimeSpan>
+                <styleUrl>#48</styleUrl>
+                <Point id="46">
+                    <coordinates>-3.175784,55.974573,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="3">
+            <Style id="55">
+                <IconStyle id="56">
+                    <color>ff2e344e</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="57">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="58">
+                    <color>ff2e344e</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="62">
+                <IconStyle id="63">
+                    <color>887a6e54</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="64">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="65">
+                    <color>887a6e54</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="69">
+                <IconStyle id="70">
+                    <color>88c06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="71">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="72">
+                    <color>88c06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="76">
+                <IconStyle id="77">
+                    <color>ffa21f7b</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="78">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="79">
+                    <color>ffa21f7b</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="83">
+                <IconStyle id="84">
+                    <color>ff5c6900</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="85">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="86">
+                    <color>ff5c6900</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="90">
+                <IconStyle id="91">
+                    <color>ff2828c6</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="92">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="93">
+                    <color>ff2828c6</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="97">
+                <IconStyle id="98">
+                    <color>ff7a6e54</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="99">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="100">
+                    <color>ff7a6e54</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="104">
+                <IconStyle id="105">
+                    <color>ff0051e6</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="106">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="107">
+                    <color>ff0051e6</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="111">
+                <IconStyle id="112">
+                    <color>ff7a6e54</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="113">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="114">
+                    <color>ff7a6e54</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="118">
+                <IconStyle id="119">
+                    <color>884f4737</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="120">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="121">
+                    <color>884f4737</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="125">
+                <IconStyle id="126">
+                    <color>884f4737</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="127">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="128">
+                    <color>884f4737</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="132">
+                <IconStyle id="133">
+                    <color>ff5c6900</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="134">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="135">
+                    <color>ff5c6900</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="139">
+                <IconStyle id="140">
+                    <color>ff2828c6</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="141">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="142">
+                    <color>ff2828c6</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="146">
+                <IconStyle id="147">
+                    <color>ff0051e6</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="148">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="149">
+                    <color>ff0051e6</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="153">
+                <IconStyle id="154">
+                    <color>ffa21f7b</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="155">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="156">
+                    <color>ffa21f7b</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="160">
+                <IconStyle id="161">
+                    <color>887a6e54</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="162">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="163">
+                    <color>887a6e54</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="167">
+                <IconStyle id="168">
+                    <color>ff7a6e54</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="169">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="170">
+                    <color>ff7a6e54</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="174">
+                <IconStyle id="175">
+                    <color>88c06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="176">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="177">
+                    <color>88c06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="181">
+                <IconStyle id="182">
+                    <color>ffc06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="183">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="184">
+                    <color>ffc06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="188">
+                <IconStyle id="189">
+                    <color>88c06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="190">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="191">
+                    <color>88c06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="195">
+                <IconStyle id="196">
+                    <color>ffc06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="197">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="198">
+                    <color>ffc06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="202">
+                <IconStyle id="203">
+                    <color>ffc06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="204">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="205">
+                    <color>ffc06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="209">
+                <IconStyle id="210">
+                    <color>ffc06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="211">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="212">
+                    <color>ffc06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="216">
+                <IconStyle id="217">
+                    <color>ffc06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="218">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="219">
+                    <color>ffc06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="222">
+                <IconStyle id="223">
+                    <color>ffc06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="224">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="225">
+                    <color>ffc06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="228">
+                <IconStyle id="229">
+                    <color>ffc06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                    <heading>0</heading>
+                    <Icon id="230">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="231">
+                    <color>ffc06515</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <name>Wider Neighbourhood</name>
+            <Placemark id="54">
+                <name>Kyle Place / 26–28 Madeira Street</name>
+                <description><![CDATA[<b>Kyle Place / 26–28 Madeira Street</b><br/><i>26–28 Madeira Street, Edinburgh EH6 4AT</i><br/>1840 &nbsp;|&nbsp; Residential &nbsp;|&nbsp; Extant<br/>Listed C<hr/>Category C listed Victorian tenement. Notable for its schooner relief — a carved sailing vessel on the façade — reflecting the maritime character of the neighbourhood. The pend (covered close) was widened around 1914. A significant example of the residential architecture of North Leith.<hr/><small><b>Sources</b><ul><li>Historic Environment Scotland / Trove.scot</li><li>City of Edinburgh Council planning portal</li></ul></small>]]></description>
+                <TimeSpan id="59">
+                    <begin>1840</begin>
+                </TimeSpan>
+                <styleUrl>#55</styleUrl>
+                <Point id="53">
+                    <coordinates>-3.181695,55.975542,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="61">
+                <name>North Leith Poorhouse</name>
+                <description><![CDATA[<b>North Leith Poorhouse</b><br/><i>North Junction Street, Edinburgh EH6</i><br/>1863–1906 &nbsp;|&nbsp; Welfare &nbsp;|&nbsp; Demolished<br/><hr/>Poorhouse constructed 1863, designed by architect Peter Hamilton. Capacity of approximately 120 inmates. Superseded by the joint Seafield Poorhouse (1906–08), which served multiple Edinburgh parishes. The site was subsequently used for the David Kilpatrick School, and later became the Ferrylee Care Home — a continuous thread of welfare provision on the same ground across 160 years.<hr/><small><b>Sources</b><ul><li>National Records of Scotland — poorhouse and parish records</li><li>Historic Environment Scotland / Trove.scot</li><li>Leith Local History Society — leithlocalhistorysociety.org.uk/junction_street/north_leith_poorhouse.htm</li></ul></small>]]></description>
+                <TimeSpan id="66">
+                    <begin>1863</begin>
+                    <end>1906</end>
+                </TimeSpan>
+                <styleUrl>#62</styleUrl>
+                <Point id="60">
+                    <coordinates>-3.180853,55.976104,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="68">
+                <name>David Kilpatrick School</name>
+                <description><![CDATA[<b>David Kilpatrick School</b><br/><i>North Junction Street, Edinburgh EH6</i><br/>1915–1975 &nbsp;|&nbsp; Educational &nbsp;|&nbsp; Demolished<br/><hr/>School designed by architect George Craig, constructed 1915, on the site of the former North Leith Poorhouse. Used as a military barracks during 1915–19. The annexe, known locally as 'the Bombies', was damaged in the April 1941 Luftwaffe bombing raids that struck much of North Leith. Demolished in the 1970s. The site is now occupied by Ferrylee Care Home. A stone plaque from the school survives on the boundary of the open ground.<hr/><small><b>Sources</b><ul><li>Canmore / Trove.scot — canmore.org.uk/site/188370</li><li>Leith Local History Society — leithlocalhistorysociety.org.uk/junction_street/david_kilpatrick_school.htm</li><li>City of Edinburgh Council planning portal</li></ul></small>]]></description>
+                <TimeSpan id="73">
+                    <begin>1915</begin>
+                    <end>1975</end>
+                </TimeSpan>
+                <styleUrl>#69</styleUrl>
+                <Point id="67">
+                    <coordinates>-3.180799,55.976125,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="75">
+                <name>North Leith Parish Church</name>
+                <description><![CDATA[<b>North Leith Parish Church</b><br/><i>51 Madeira Street, Edinburgh EH6 4QS</i><br/>1816–2024 &nbsp;|&nbsp; Religious &nbsp;|&nbsp; Damaged<br/>Listed A<hr/>Category A listed church designed by William Burn, completed 1816. Damaged in the April 1941 Luftwaffe bombing raids. Closed March 2024 and offered for sale — part of the wider decline of the Church of Scotland's estate in central Leith. One of the most significant listed buildings on Madeira Street.<hr/><small><b>Sources</b><ul><li>Historic Environment Scotland / Trove.scot</li><li>City of Edinburgh Council planning portal</li></ul></small>]]></description>
+                <TimeSpan id="80">
+                    <begin>1816</begin>
+                    <end>2024</end>
+                </TimeSpan>
+                <styleUrl>#76</styleUrl>
+                <Point id="74">
+                    <coordinates>-3.183026,55.976016,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="82">
+                <name>Norwegian Seaman's Lutheran Church / Leith School of Art</name>
+                <description><![CDATA[<b>Norwegian Seaman's Lutheran Church / Leith School of Art</b><br/><i>25 North Junction Street, Edinburgh EH6 6HW</i><br/>1868 &nbsp;|&nbsp; Maritime &nbsp;|&nbsp; Converted<br/><hr/>Built 1868 for the Norwegian seafaring community in Leith, designed by Johan Schroder with James Simpson. Distinguished by its fish-scale spire and Vim Stone construction. King Haakon VII visited in 1941 during the Norwegian government-in-exile. Now houses the Leith School of Art — another instance of a purpose-built religious/community building repurposed for the arts.<hr/><small><b>Sources</b><ul><li>Leith Local History Society — leithlocalhistorysociety.org.uk</li><li>Historic Environment Scotland / Trove.scot</li></ul></small>]]></description>
+                <TimeSpan id="87">
+                    <begin>1868</begin>
+                </TimeSpan>
+                <styleUrl>#83</styleUrl>
+                <Point id="81">
+                    <coordinates>-3.179686,55.976095,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="89">
+                <name>Leith Theatre / Thomas Morton Hall</name>
+                <description><![CDATA[<b>Leith Theatre / Thomas Morton Hall</b><br/><i>28–30 Ferry Road, Edinburgh EH6 4AE</i><br/>1932–1988 &nbsp;|&nbsp; Civic &nbsp;|&nbsp; Damaged<br/><hr/>Civic theatre and hall designed by Bradshaw Gass & Hope, opened 1932. Also known as Thomas Morton Hall. Damaged in the April 1941 Luftwaffe bombing raids. Operated as a rock venue in the 1970s before closing in 1988. Listed on the Theatres at Risk Register. A 50-year lease was secured in 2025, offering the prospect of restoration.<hr/><small><b>Sources</b><ul><li>Leith Local History Society — leithlocalhistorysociety.org.uk</li><li>Historic Environment Scotland / Trove.scot</li></ul></small>]]></description>
+                <TimeSpan id="94">
+                    <begin>1932</begin>
+                    <end>1988</end>
+                </TimeSpan>
+                <styleUrl>#90</styleUrl>
+                <Point id="88">
+                    <coordinates>-3.180403,55.975713,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="96">
+                <name>Leith Mount / 46 Ferry Road</name>
+                <description><![CDATA[<b>Leith Mount / 46 Ferry Road</b><br/><i>46 Ferry Road, Edinburgh EH6 4AE</i><br/>1825 &nbsp;|&nbsp; Welfare &nbsp;|&nbsp; Converted<br/>Listed B<hr/>Category B listed Georgian manse, c.1825. Now operating as a council-contracted homeless hostel run by K & S Mir Ltd. One of the more intact Georgian buildings remaining in North Leith, its current use as welfare accommodation continues a pattern of institutional repurposing across the neighbourhood.<hr/><small><b>Sources</b><ul><li>Historic Environment Scotland / Trove.scot</li><li>City of Edinburgh Council planning portal</li></ul></small>]]></description>
+                <TimeSpan id="101">
+                    <begin>1825</begin>
+                </TimeSpan>
+                <styleUrl>#97</styleUrl>
+                <Point id="95">
+                    <coordinates>-3.181073,55.975242,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="103">
+                <name>Wm Sinclair &amp; Son Bagpipe Makers</name>
+                <description><![CDATA[<b>Wm Sinclair & Son Bagpipe Makers</b><br/><i>1 Madeira Street, Edinburgh EH6</i><br/>1931 &nbsp;|&nbsp; Commercial &nbsp;|&nbsp; Extant<br/>Colonial link<hr/>Family bagpipe-making business, five generations, operating from c.1931. Instruments made from African blackwood (Dalbergia melanoxylon), sourced from Tanzania and Mozambique — connecting the Madeira Street workshop to a global supply chain that passes through Liverpool, itself connected to the colonial trade networks in which John Gladstone's family also operated. Still in business.<hr/><small><b>Sources</b><ul><li>Piping Press / sinclair-bagpipes.co.uk — Sinclair family history</li><li>African Blackwood Conservation Project — blackwoodconservation.org</li></ul></small>]]></description>
+                <TimeSpan id="108">
+                    <begin>1931</begin>
+                </TimeSpan>
+                <styleUrl>#104</styleUrl>
+                <Point id="102">
+                    <coordinates>-3.181631,55.975107,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="110">
+                <name>Ferrylee Care Home</name>
+                <description><![CDATA[<b>Ferrylee Care Home</b><br/><i>33 North Junction Street, Edinburgh EH6 6HR</i><br/>1975 &nbsp;|&nbsp; Welfare &nbsp;|&nbsp; Extant<br/><hr/>Care home built post-1970s on the site of the former David Kilpatrick School and, before that, the North Leith Poorhouse. Operated by City of Edinburgh Council; 43 rooms, providing residential, dementia and respite care. The sequence of uses on this ground — poorhouse (1863), school (1915), barracks (1915–19), bomb damage (1941), demolition (1970s), care home (c.1975) — traces the changing institutional response to poverty and dependency across 160 years.<hr/><small><b>Sources</b><ul><li>City of Edinburgh Council — edinburgh.gov.uk/directory-record/1114595/ferrylee</li><li>Care Inspectorate Scotland</li></ul></small>]]></description>
+                <TimeSpan id="115">
+                    <begin>1975</begin>
+                </TimeSpan>
+                <styleUrl>#111</styleUrl>
+                <Point id="109">
+                    <coordinates>-3.181003,55.976146,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="117">
+                <name>Leith Fort</name>
+                <description><![CDATA[<b>Leith Fort</b><br/><i>North Fort Street, Edinburgh EH6</i><br/>1780–1960 &nbsp;|&nbsp; Military &nbsp;|&nbsp; Demolished<br/><hr/>Artillery fort built from 1780 to defend the port of Leith against seaborne attack, prompted by the threat from the American privateer John Paul Jones in 1779. Designed by James Craig — better known for the plan of Edinburgh's New Town — under the practical supervision of Captain Andrew Frazer, Chief Engineer for Scotland. Paid for jointly by Edinburgh and Leith. Largely demolished c.1960; a housing scheme on the site was itself demolished in 2013 and replaced. The gate lodges on North Fort Street survive.<hr/><small><b>Sources</b><ul><li>Threadinburgh — threadinburgh.scot/2022/11/24/the-thread-about-leith-fort</li><li>Canmore / Trove.scot — canmore.org.uk/site/145502</li><li>Capital Collections (Edinburgh) — capitalcollections.org.uk</li></ul></small>]]></description>
+                <TimeSpan id="122">
+                    <begin>1780</begin>
+                    <end>1960</end>
+                </TimeSpan>
+                <styleUrl>#118</styleUrl>
+                <Point id="116">
+                    <coordinates>-3.184855,55.977034,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="124">
+                <name>The Citadel</name>
+                <description><![CDATA[<b>The Citadel</b><br/><i>Dock Street, Edinburgh EH6</i><br/>1653–1660 &nbsp;|&nbsp; Military &nbsp;|&nbsp; Demolished<br/><hr/>Pentagonal Cromwellian fortress ordered in 1653, overseen by General George Monck following the Parliamentary victory at Dunbar in 1650. Built to control the port of Leith and regulate access to Edinburgh. Financed under duress by Edinburgh Corporation to the sum of £5,000 sterling. Largely demolished after the Restoration of the monarchy in 1660. A vaulted gateway on Dock Street is the only significant surviving remnant.<hr/><small><b>Sources</b><ul><li>Leith Local History Society — leithlocalhistorysociety.org.uk/fortifications/citadel.htm</li><li>Threadinburgh — threadinburgh.scot/2022/09/09</li></ul></small>]]></description>
+                <TimeSpan id="129">
+                    <begin>1653</begin>
+                    <end>1660</end>
+                </TimeSpan>
+                <styleUrl>#125</styleUrl>
+                <Point id="123">
+                    <coordinates>-3.175741,55.976413,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="131">
+                <name>Trinity House</name>
+                <description><![CDATA[<b>Trinity House</b><br/><i>99 Kirkgate, Edinburgh EH6 6BJ</i><br/>1816 &nbsp;|&nbsp; Maritime &nbsp;|&nbsp; Converted<br/>Listed A<hr/>Category A listed guild hall of the Incorporation of Master and Mariners of Leith, an institution founded by charter of Robert II in 1380. The current building was designed by Thomas Brown and completed in 1816 on the site of an earlier Trinity House and hospital dating from 1555. The Convening Room contains an ornate plaster frieze, a long mahogany table, and portraits by Sir Henry Raeburn. Collections include navigational instruments, charts, whaling harpoons, and model ships. Now in state care as a maritime museum.<hr/><small><b>Sources</b><ul><li>Historic Environment Scotland — historicenvironment.scot/visit-a-place/places/trinity-house</li><li>Trinity House of Leith — Wikipedia</li></ul></small>]]></description>
+                <TimeSpan id="136">
+                    <begin>1816</begin>
+                </TimeSpan>
+                <styleUrl>#132</styleUrl>
+                <Point id="130">
+                    <coordinates>-3.17138,55.972162,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="138">
+                <name>Leith Custom House</name>
+                <description><![CDATA[<b>Leith Custom House</b><br/><i>65–67 Commercial Street, Edinburgh EH6 6LH</i><br/>1812 &nbsp;|&nbsp; Civic &nbsp;|&nbsp; Converted<br/>Listed A<hr/>Category A listed neo-classical custom house designed by Robert Reid and built 1810–12, with additions and alterations by William Burn in 1825. Cream sandstone ashlar, symmetrical eleven-bay frontage. In use as a customs facility until 1980, then as a museum store. Acquired by the City of Edinburgh through its Common Good Fund in 2015. Now managed by the Scottish Historic Buildings Trust as an arts and events hub, with long-term restoration plans under development.<hr/><small><b>Sources</b><ul><li>Scottish Historic Buildings Trust — shbt.org.uk/our-buildings/custom-house</li><li>Historic Environment Scotland LB26787</li></ul></small>]]></description>
+                <TimeSpan id="143">
+                    <begin>1812</begin>
+                </TimeSpan>
+                <styleUrl>#139</styleUrl>
+                <Point id="137">
+                    <coordinates>-3.170918,55.976672,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="145">
+                <name>Lamb's House</name>
+                <description><![CDATA[<b>Lamb's House</b><br/><i>Water Street, Edinburgh EH6 6RB</i><br/>1610 &nbsp;|&nbsp; Commercial &nbsp;|&nbsp; Converted<br/>Listed A<hr/>Category A listed early 17th-century merchant's house and warehouse, built c.1610 for Andrew Lamb, a prosperous Leith merchant trading with the Hanseatic ports. Mary Queen of Scots reputedly rested here on her return to Scotland in 1561, though the present building post-dates that event. Original features include crow-stepped gables, a stone turnpike staircase, leaded windows, and Baltic pine beams. Formerly a National Trust for Scotland property used as a day centre. Sensitively restored 2010–16 by conservation architect Nicholas Groves-Raines; RIAS Award winner 2016.<hr/><small><b>Sources</b><ul><li>Lamb's House — Wikipedia</li><li>GRAS — gras.co/projects/lambs-house</li><li>Canmore / Trove.scot — canmore.org.uk/site/51956</li></ul></small>]]></description>
+                <TimeSpan id="150">
+                    <begin>1610</begin>
+                </TimeSpan>
+                <styleUrl>#146</styleUrl>
+                <Point id="144">
+                    <coordinates>-3.169402,55.975199,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="152">
+                <name>South Leith Parish Church</name>
+                <description><![CDATA[<b>South Leith Parish Church</b><br/><i>Kirkgate, Edinburgh EH6 6BJ</i><br/>1483 &nbsp;|&nbsp; Religious &nbsp;|&nbsp; Extant<br/>Listed A<hr/>Category A listed church with origins as a chapel dedicated to St Mary, first built 1483. Used as a magazine by Cromwellian troops 1650–57. Current building largely 1847–48 by Thomas Hamilton, retaining the layout and part of the aisle walls of the earlier church. Contains a magnificent hammer-beam ceiling, stained glass, and the colours of the 1st/7th Battalion Royal Scots, commemorating losses in the Quintinshill rail disaster of 1915. The kirkyard is burial place of John Home and of John Pew, said to be Robert Louis Stevenson's model for Blind Pew in Treasure Island. In 2024 united with North Leith Parish Church.<hr/><small><b>Sources</b><ul><li>South Leith Parish Church — Wikipedia</li><li>Historic Environment Scotland / Trove.scot</li></ul></small>]]></description>
+                <TimeSpan id="157">
+                    <begin>1483</begin>
+                </TimeSpan>
+                <styleUrl>#153</styleUrl>
+                <Point id="151">
+                    <coordinates>-3.17058,55.972012,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="159">
+                <name>South Leith Poorhouse / Taylor Gardens</name>
+                <description><![CDATA[<b>South Leith Poorhouse / Taylor Gardens</b><br/><i>Taylor Gardens, North Junction Street, Edinburgh EH6</i><br/>1850–1911 &nbsp;|&nbsp; Welfare &nbsp;|&nbsp; Demolished<br/><hr/>Purpose-built poorhouse for the parish of South Leith, opened 1850 at a cost of £8,000. Located on the east side of North Junction Street, directly adjacent to Leith Hospital. Contained separate schoolrooms for boys and girls within the main building. Following the amalgamation of South and North Leith boards in 1894, both poorhouses were superseded by the new Seafield Poorhouse (1906–08). The South Leith building was acquired by Leith Hospital managers and demolished in 1911 to admit more light and air to the hospital wards. The site is now Taylor Gardens, a public park.<hr/><small><b>Sources</b><ul><li>Leith Local History Society — leithlocalhistorysociety.org.uk/junction_street/south_leith_poorhouse.htm</li><li>Workhouses.org.uk — workhouses.org.uk/Leith</li><li>Canmore — canmore.org.uk/site/151628</li></ul></small>]]></description>
+                <TimeSpan id="164">
+                    <begin>1850</begin>
+                    <end>1911</end>
+                </TimeSpan>
+                <styleUrl>#160</styleUrl>
+                <Point id="158">
+                    <coordinates>-3.176599,55.974131,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="166">
+                <name>Seafield Poorhouse / Eastern General Hospital</name>
+                <description><![CDATA[<b>Seafield Poorhouse / Eastern General Hospital</b><br/><i>Seafield Street, Edinburgh EH6</i><br/>1906 &nbsp;|&nbsp; Welfare &nbsp;|&nbsp; Converted<br/><hr/>Built 1906–08 to designs by Joseph Marr Johnston, the Seafield Poorhouse was the last poorhouse constructed in Scotland and replaced both the North Leith and South Leith poorhouses following their boards' amalgamation in 1894. Capacity of approximately 650 inmates. Requisitioned as Leith War Hospital during the First World War. Subsequently became the Eastern General Hospital, a role it fulfilled for much of the 20th century. Part of the site is now occupied by Findlay House.<hr/><small><b>Sources</b><ul><li>Workhouses.org.uk — workhouses.org.uk/Leith</li><li>Trove.scot — trove.scot/place/74067</li></ul></small>]]></description>
+                <TimeSpan id="171">
+                    <begin>1906</begin>
+                </TimeSpan>
+                <styleUrl>#167</styleUrl>
+                <Point id="165">
+                    <coordinates>-3.146091,55.968212,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="173">
+                <name>Leith Academy (Leith Links building)</name>
+                <description><![CDATA[<b>Leith Academy (Leith Links building)</b><br/><i>Leith Links, Edinburgh EH6</i><br/>1806–1898 &nbsp;|&nbsp; Educational &nbsp;|&nbsp; Demolished<br/><hr/>First purpose-built home of Leith Academy, designed by Robert Burn and completed in 1806 beside Leith Links. The school itself dates to 1560, when it was founded in South Leith Parish Church; records mention a grammar school in Leith as early as 1521. Demolished 1896 and replaced by a new building on the same site in 1898.<hr/><small><b>Sources</b><ul><li>Leith Academy — Wikipedia</li><li>QMU — qmu.ac.uk/about-the-university/qmu150/qmu150-150-stories/places/leith-academy-in-duke-street</li></ul></small>]]></description>
+                <TimeSpan id="178">
+                    <begin>1806</begin>
+                    <end>1898</end>
+                </TimeSpan>
+                <styleUrl>#174</styleUrl>
+                <Point id="172">
+                    <coordinates>-3.168767,55.970433,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="180">
+                <name>Leith Academy (Duke Street building)</name>
+                <description><![CDATA[<b>Leith Academy (Duke Street building)</b><br/><i>Duke Street, Edinburgh EH6</i><br/>1931–1991 &nbsp;|&nbsp; Educational &nbsp;|&nbsp; Converted<br/><hr/>Second replacement building for Leith Academy, opened 1931 after the school outgrew its Leith Links premises. In use as the school until the current Easter Road building opened in 1991. The Duke Street building subsequently became part of Queen Margaret University's Leith campus.<hr/><small><b>Sources</b><ul><li>Leith Academy — Wikipedia</li><li>QMU — qmu.ac.uk/about-the-university/qmu150</li></ul></small>]]></description>
+                <TimeSpan id="185">
+                    <begin>1931</begin>
+                    <end>1991</end>
+                </TimeSpan>
+                <styleUrl>#181</styleUrl>
+                <Point id="179">
+                    <coordinates>-3.167667,55.969295,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="187">
+                <name>Fort Primary School</name>
+                <description><![CDATA[<b>Fort Primary School</b><br/><i>North Fort Street, Edinburgh EH6</i><br/>1880–1968 &nbsp;|&nbsp; Educational &nbsp;|&nbsp; Demolished<br/><hr/>School within the Leith Fort complex on North Fort Street. Thomas Trotter, who later became the first rector of Trinity Academy, taught here. The building served as a school annex until 1968 and as a community club for a period thereafter, before demolition. Flats now occupy the site.<hr/><small><b>Sources</b><ul><li>EdinPhoto — edinphoto.org.uk/1_edin/1_edinburgh_history_-_recollections_north_fort_street_primary_school.htm</li></ul></small>]]></description>
+                <TimeSpan id="192">
+                    <begin>1880</begin>
+                    <end>1968</end>
+                </TimeSpan>
+                <styleUrl>#188</styleUrl>
+                <Point id="186">
+                    <coordinates>-3.186019,55.977364,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="194">
+                <name>Bonnington Primary School / Bun-sgoil Taobh na Pàirce</name>
+                <description><![CDATA[<b>Bonnington Primary School / Bun-sgoil Taobh na Pàirce</b><br/><i>Bonnington Road, Edinburgh EH6</i><br/>1875 &nbsp;|&nbsp; Educational &nbsp;|&nbsp; Converted<br/><hr/>Victorian Board school built 1875–77 to designs by James Simpson — the same architect who designed the Norwegian Seaman's Lutheran Church on North Junction Street. Extended in 1907 by George Craig, who would later design David Kilpatrick School in 1915. Now houses Bun-sgoil Taobh na Pàirce, Edinburgh's Gaelic-medium primary school — another instance of a historic school building repurposed for a new educational community.<hr/><small><b>Sources</b><ul><li>Bun-sgoil Taobh na Pàirce — Wikipedia</li></ul></small>]]></description>
+                <TimeSpan id="199">
+                    <begin>1875</begin>
+                </TimeSpan>
+                <styleUrl>#195</styleUrl>
+                <Point id="193">
+                    <coordinates>-3.179898,55.970535,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="201">
+                <name>Lorne Street Primary School</name>
+                <description><![CDATA[<b>Lorne Street Primary School</b><br/><i>7 Lorne Street, Edinburgh EH6 8QS</i><br/>1876 &nbsp;|&nbsp; Educational &nbsp;|&nbsp; Extant<br/><hr/>Victorian Board school, original building opened 1876. A multicultural and diverse school community reflecting the character of contemporary Leith. The building suffered a fire, closed, and reopened in 1973. The Victorian structure survives.<hr/><small><b>Sources</b><ul><li>Lorne Primary School — lorneprimary.co.uk</li></ul></small>]]></description>
+                <TimeSpan id="206">
+                    <begin>1876</begin>
+                </TimeSpan>
+                <styleUrl>#202</styleUrl>
+                <Point id="200">
+                    <coordinates>-3.174561,55.966203,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="208">
+                <name>Leith Academy</name>
+                <description><![CDATA[<b>Leith Academy</b><br/><i>20 Academy Park, Easter Road, Edinburgh EH6 8JQ</i><br/>1991 &nbsp;|&nbsp; Educational &nbsp;|&nbsp; Extant<br/><hr/>Current building of Leith Academy, opened 1991 after sustained campaigning by staff, students and parents. The only secondary school serving the Leith area. The school's history stretches back to 1560. Former pupils of David Kilpatrick School, which closed in 1975, were transferred to Trinity Academy.<hr/><small><b>Sources</b><ul><li>Leith Academy — leithacademy.uk</li><li>Leith Academy — Wikipedia</li></ul></small>]]></description>
+                <TimeSpan id="213">
+                    <begin>1991</begin>
+                </TimeSpan>
+                <styleUrl>#209</styleUrl>
+                <Point id="207">
+                    <coordinates>-3.167034,55.967866,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="215">
+                <name>Leith Primary School</name>
+                <description><![CDATA[<b>Leith Primary School</b><br/><i>St Andrew Place, Edinburgh EH6 7EG</i><br/>None &nbsp;|&nbsp; Educational &nbsp;|&nbsp; Extant<br/><hr/>Current primary school serving the Leith area. Associated secondary school is Leith Academy.<hr/><small><b>Sources</b><ul><li>City of Edinburgh Council — edinburgh.gov.uk/directory-record/1697749/leith-primary-school</li></ul></small>]]></description>
+                <styleUrl>#216</styleUrl>
+                <Point id="214">
+                    <coordinates>-3.168821,55.970442,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221">
+                <name>Hermitage Park Primary School</name>
+                <description><![CDATA[<b>Hermitage Park Primary School</b><br/><i>9 Hermitage Park, Edinburgh EH6 8HD</i><br/>None &nbsp;|&nbsp; Educational &nbsp;|&nbsp; Extant<br/><hr/>Current primary school in the Hermitage Park area of Leith.<hr/><small><b>Sources</b><ul><li>City of Edinburgh Council — edinburgh.gov.uk/directory-record/1697743/hermitage-park-primary-school</li></ul></small>]]></description>
+                <styleUrl>#222</styleUrl>
+                <Point id="220">
+                    <coordinates>-3.16218,55.965718,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="227">
+                <name>Fort Early Years Centre</name>
+                <description><![CDATA[<b>Fort Early Years Centre</b><br/><i>North Fort Street, Edinburgh EH6 4HJ</i><br/>None &nbsp;|&nbsp; Educational &nbsp;|&nbsp; Extant<br/><hr/>Current early years and childcare centre on North Fort Street, on the site of the former Leith Fort and Fort Primary School.<hr/><small><b>Sources</b><ul><li>City of Edinburgh Council — edinburgh.gov.uk/directory-record/1581141/fort-early-years-centre</li></ul></small>]]></description>
+                <styleUrl>#228</styleUrl>
+                <Point id="226">
+                    <coordinates>-3.185831,55.976476,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
