@@ -219,7 +219,7 @@ def build_map(features):
       z-index: 1000; background: #fff; padding: 8px 22px; border-radius: 6px;
       font-family: 'Zilla Slab', Georgia, serif;
       font-size: 1.1rem; font-weight: 500; letter-spacing: 0.01em;
-      white-space: nowrap; color: #222; pointer-events: none;
+      white-space: nowrap; color: #222; cursor: pointer;
       box-shadow: 0 1px 5px rgba(0,0,0,0.12);
     }}
 
@@ -354,7 +354,10 @@ def build_map(features):
   <script>
     const FEATURES = {json.dumps(feature_list, ensure_ascii=False)};
 
-    const map = L.map('map', {{ center: [55.9752, -3.1793], zoom: 16 }});
+    var map = L.map('map', {{ center: [55.9752, -3.1793], zoom: 16 }});
+    document.getElementById('title').addEventListener('click', function() {{
+      map.setView([55.9752, -3.1793], 16);
+    }});
 
     const modernLayer = L.tileLayer(
       'https://{{s}}.basemaps.cartocdn.com/light_all/{{z}}/{{x}}/{{y}}{{r}}.png',
